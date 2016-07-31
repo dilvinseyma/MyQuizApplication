@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">My Quiz Application</string>
+    <string name="title_activity_result">ResultActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <string name="str_next"> NEXT !</string>
+    <string name="str_results"> RESULTS </string>
+    <string name="end_message">Test bitti !</string>
+
+    <string name="q1"> Select the best synonym for \'guide\' :</string>
+    <string name="q1A">direct</string>
+    <string name="q1B">invite</string>
+    <string name="q1C">score</string>
+    <string name="q1D">go away</string>
+    <string name="ansQ1">direct</string>
+
+    <string name="q2"> Select the best synonym for \'artistic\' :</string>
+    <string name="q2A">complex</string>
+    <string name="q2B">free</string>
+    <string name="q2C">doubtful</string>
+    <string name="q2D">creative</string>
+    <string name="ansQ2">creative</string>
+
+    <string name="q3"> Select the best synonym for \'sentiment\' :</string>
+    <string name="q3A">flavoring</string>
+    <string name="q3B">feeling</string>
+    <string name="q3C">jewel</string>
+    <string name="q3D">shyness</string>
+    <string name="ansQ3">feeling</string>
+
+    <string name="q4"> Select the best synonym for \'explosion\' :</string>
+    <string name="q4A">existence</string>
+    <string name="q4B">unusual idea</string>
+    <string name="q4C">trip</string>
+    <string name="q4D">blast</string>
+    <string name="ansQ4">blast</string>
+
+    <string name="q5"> Select the best synonym for \'persist\' :</string>
+    <string name="q5A">carry on</string>
+    <string name="q5B">rely on</string>
+    <string name="q5C">rain</string>
+    <string name="q5D">arouse</string>
+    <string name="ansQ5">carry on</string>
+
+    <string name="q6"> Select the best synonym for \'exemplary\' :</string>
+    <string name="q6A">outstanding</string>
+    <string name="q6B">alive</string>
+    <string name="q6C">precise</string>
+    <string name="q6D">faraway</string>
+    <string name="ansQ6">outstanding</string>
+
+    <string name="q7"> Select the best synonym for \'proclaim\' :</string>
+    <string name="q7A"> act</string>
+    <string name="q7B">ban</string>
+    <string name="q7C">say</string>
+    <string name="q7D">support</string>
+    <string name="ansQ7">say</string>
+
+    <string name="q8"> Select the best synonym for \'though\' :</string>
+    <string name="q8A">while</string>
+    <string name="q8B">unfortunately</string>
+    <string name="q8C">despite</string>
+    <string name="q8D">between</string>
+    <string name="ansQ8">despite</string>
+
+    <string name="q9"> Select the best synonym for \'slice\' :</string>
+    <string name="q9A">cut</string>
+    <string name="q9B">watch</string>
+    <string name="q9C">realize</string>
+    <string name="q9D">fall</string>
+    <string name="ansQ9">cut</string>
+
+    <string name="q10"> Select the best synonym for \'benevolent\' :</string>
+    <string name="q10A">kind</string>
+    <string name="q10B">unsuitable</string>
+    <string name="q10C">new</string>
+    <string name="q10D">violent</string>
+    <string name="ansQ10">kind</string>
+    <string name="title_activity_end_message">EndMessage</string>
+    <string name="title_activity_score">ScoreActivity</string>
+
+
+</resources>
